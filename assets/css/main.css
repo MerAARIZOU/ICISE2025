@@ -113,7 +113,7 @@ ul li {
 .custom-list-icon li::before, .list-arrow-right li::before {
   position: absolute;
   left: 0;
-  color: #4e4e4e;
+  color: #0097b2;/*#4e4e4e;*/
   font-family: "Ionicons";
 }
 
